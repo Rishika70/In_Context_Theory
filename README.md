@@ -43,7 +43,7 @@ All experiments are implemented in Python and ready to run in Colab or local env
 
 ---
 
-## Usage
+## Future Work
 
 - Run the provided Python scripts to reproduce simulations and plots.  
 - Modify parameters for diffusion, jump rate, jump magnitude, or resonance to explore different regimes.  
